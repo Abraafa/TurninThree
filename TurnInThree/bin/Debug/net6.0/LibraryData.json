@@ -1,0 +1,35 @@
+﻿{
+  "books": [
+    {
+      "ID": 1,
+      "Title": "Robins thai-resa",
+      "Author": "Robin Mullback",
+      "Genre": "Drama",
+      "PubYear": 2024,
+      "ISBN": 1123456789
+    },
+    {
+      "ID": 2,
+      "Title": "Freddies Thaii-resa",
+      "Author": "Freddie Andreasson",
+      "Genre": "Fantasy",
+      "PubYear": 2024,
+      "ISBN": 1234567890
+    }
+
+  ],
+  "Authors": [
+    {
+      "ID": 1,
+      "Name": "Robin Mullback",
+      "Country": "Sweden"
+    },
+    {
+      "ID": 2,
+      "Name": "Freddie Andreasson",
+      "Country": "Sweden"
+    }
+    
+  ]
+
+}
